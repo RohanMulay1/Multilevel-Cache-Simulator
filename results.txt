@@ -1,0 +1,9 @@
+Cache Simulation Results
+-----------------------
+Total Accesses: 1000
+L1 Hits: 11
+L1 Misses: 989
+L2 Hits: 18
+L2 Misses: 971
+Evictions: 907
+Average Access Time: 0.000005 seconds
